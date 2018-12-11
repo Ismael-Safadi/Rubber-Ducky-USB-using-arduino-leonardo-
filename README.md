@@ -29,5 +29,5 @@ Using
 - Upload the code in Arduino .
 - Finally you ready to use it , Just connect it for 15 seconds in victim machine then you will get connection to target machine.
 
-No responsibility for abuse
+No responsibility in case of abusive use
 =
