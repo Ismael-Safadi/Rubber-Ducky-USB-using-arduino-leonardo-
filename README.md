@@ -21,3 +21,13 @@ Software Requirement
 - Some acknowledgement in windows command
 - XAMPP server , to get direct download link for your malware
 - Any malware that you want to use .
+
+Using
+=
+- Edit code in line 15 and replace 'Direct link for your malware' with direct link to your malware.
+- Edit code in line 19 and replace yourIP with your IP  and PORT with port that you want to use in connection.
+- Upload the code in Arduino .
+- Finally you ready to use it , Just connect it for 15 seconds in victim machine then you will get connection to target machine.
+
+No responsibility for abuse
+=
