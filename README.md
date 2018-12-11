@@ -12,7 +12,7 @@ quickly and easily craft and deploy security auditing payloads that mimic human 
 
 Hardware Requirement
 =
-- Arduion . any type of arduino like leonardo , pro micro or nano .
+- Arduion . any type of arduino like leonardo or pro micro .
 - Physical access into victim machine
 
 Software Requirement
