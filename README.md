@@ -18,7 +18,7 @@ Hardware Requirement
 Software Requirement
 =
 - Arduino IDE 
-- Some acknowledgement in windows command
+- Some knowledge in windows command
 - XAMPP server , to get direct download link for your malware
 - Any malware that you want to use .
 
